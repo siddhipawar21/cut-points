@@ -75,7 +75,6 @@ IBM Bob was used as the primary development tool throughout the build:
 - **Plan mode** — designing the accept/reject cut-review flow and the history/settings data model before implementation
 - **Code mode** — implementing feature additions, error handling (corrupted/unsupported audio files), and edge-case fixes (overlapping accepted cuts in the export list)
 
-*(Fill in your specific Bob session notes here — mode used, prompt, what it produced — before submitting.)*
 
 ---
 
