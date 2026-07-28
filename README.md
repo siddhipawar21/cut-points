@@ -84,8 +84,8 @@ IBM Bob was used as the primary development tool throughout the build:
 # install dependencies
 bun install
 
-# configure environment (Supabase is pre-provisioned via Lovable Cloud;
-# add your own OpenAI key)
+# configure environment 
+# add your own OpenAI key
 echo "OPENAI_API_KEY=sk-..." >> .env
 
 # run locally
